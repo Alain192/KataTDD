@@ -1,2 +1,3 @@
 class Conjunto:
-    pass
+    def proemdio(self):
+        return False
